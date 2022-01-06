@@ -1,4 +1,4 @@
-to fix the bug of file1.
 
-change for WI4 by teammate for rebase with conflict
-
+1.'to fix the bug of file1.'
+2.change to rebase on CR2
+3.save it
