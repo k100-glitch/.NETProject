@@ -1,12 +1,12 @@
 Hello world!!
 
-Change :- added to the file
+Change1:- added to the file
 kk done
-change :- done by teammate for WI3
+change2:- done by teammate for WI3
 
-Change :- added to the file
+Change3:- added to the file
 
-change:- for stash for WI5 still in progress
-change:- For WI6 on local ,master to test normal push
-
+change4:- for stash for WI5 still in progress
+change5:- For WI6 on local ,master to test normal push
+change6:- by teammate for bug3.
 
